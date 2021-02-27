@@ -140,7 +140,7 @@ Project Link: [https://github.com/Kaiskii/PascalOnline](https://github.com/Kaisk
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Kaiskii/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Kaiskii/PascalOnline.svg?style=for-the-badge
 [contributors-url]: https://github.com/Kaiskii/PascalOnline/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Kaiskii/PascalOnline.svg?style=for-the-badge
 [forks-url]: https://github.com/Kaiskii/PascalOnline/network/members
