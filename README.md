@@ -30,9 +30,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Kaiskii/PascalOnline">
+  <!-- <a href="https://github.com/Kaiskii/PascalOnline">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
   <h3 align="center">Pascal Online</h3>
 
