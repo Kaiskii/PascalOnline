@@ -140,15 +140,15 @@ Project Link: [https://github.com/Kaiskii/PascalOnline](https://github.com/Kaisk
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Kaiskii/repo.svg?style=for-the-badge
 [contributors-url]: https://github.com/Kaiskii/PascalOnline/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Kaiskii/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/Kaiskii/PascalOnline/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Kaiskii/repo.svg?style=for-the-badge
 [stars-url]: https://github.com/Kaiskii/PascalOnline/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Kaiskii/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/Kaiskii/PascalOnline/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Kaiskii/repo.svg?style=for-the-badge
 [license-url]: https://github.com/Kaiskii/PascalOnline/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/kaiskii
